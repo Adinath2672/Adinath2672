@@ -29,7 +29,7 @@ I am currently pursuing my **M.Sc. in Bioinformatics** at the Rajiv Gandhi Insti
 
 ## 📬 Let's Connect!
 I welcome connections with fellow researchers, bioinformatics enthusiasts, and professionals for knowledge exchange and collaborations.  
-[![LinkedIn][linkedin-icon]](https://www.linkedin.com/in/adinath-kandale-b90170201/)
+(https://www.linkedin.com/in/adinath-kandale-b90170201/)
 
 ---
 
