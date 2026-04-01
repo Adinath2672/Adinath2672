@@ -21,7 +21,7 @@ I am currently pursuing my **M.Sc. in Bioinformatics** at the Rajiv Gandhi Insti
 - **Data Analysis & Visualization**  
 - **Next-Generation Sequencing (NGS)**  
 - **Computer Aided Drug Discovery**
-- 
+  
 
 ## 🏆 Projects & Activities
 - participated in national conference and presented research work.
