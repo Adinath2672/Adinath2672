@@ -20,13 +20,14 @@ I am currently pursuing my **M.Sc. in Bioinformatics** at the Rajiv Gandhi Insti
 - **Bioinformatics & Biotechnology**  
 - **Data Analysis & Visualization**  
 - **Next-Generation Sequencing (NGS)**  
-- **Artificial Intelligence & Machine Learning in Bioinformatics**
+- **Computer Aided Drug Discovery**
+- 
 
 ## 🏆 Projects & Activities
 - participated in national conference and presented research work.
-- Participated in collaborative research projects and internships focused on genomic data interpretation and biological insights  
-- Attended workshops and training sessions to stay updated with the latest bioinformatics technologies and trends  
-- Actively contribute to skill development in computational biology through continuous self-learning
+- Participated in collaborative research projects and internships focused on genomic data interpretation and biological insights.  
+- Attended workshops and training sessions to stay updated with the latest bioinformatics technologies and trends.  
+- Actively contribute to skill development in computational biology through continuous self-learning.
 
 ## 📬 Let's Connect!
 I welcome connections with fellow researchers, bioinformatics enthusiasts, and professionals for knowledge exchange and collaborations.  
