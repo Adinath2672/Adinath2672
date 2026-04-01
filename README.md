@@ -23,6 +23,7 @@ I am currently pursuing my **M.Sc. in Bioinformatics** at the Rajiv Gandhi Insti
 - **Artificial Intelligence & Machine Learning in Bioinformatics**
 
 ## 🏆 Projects & Activities
+- participated in national conference and presented research work.
 - Participated in collaborative research projects and internships focused on genomic data interpretation and biological insights  
 - Attended workshops and training sessions to stay updated with the latest bioinformatics technologies and trends  
 - Actively contribute to skill development in computational biology through continuous self-learning
